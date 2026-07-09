@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Unus Chinnappan</h1>
 
 <h3 align="center">
-Java Full Stack Developer | MERN Stack Developer | Open to Work
+Software Developer | Full Stack Developer | Java & React
 </h3>
+
+<p align="center">
+B.Tech Information Technology Graduate (2026) passionate about building responsive web applications, REST APIs, and practical software solutions.
+</p>
 
 <p align="center">
   <a href="https://github.com/unusroshnn">
     <img src="https://img.shields.io/badge/GitHub-unusroshnn-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="http://www.linkedin.com/in/unus-c-97571325a">
-    <img src="https://img.shields.io/badge/LinkedIn-Unus%20C-blue?style=for-the-badge&logo=linkedin"/>
+
+  <a href="https://www.linkedin.com/in/unus-c-97571325a">
+    <img src="https://img.shields.io/badge/LinkedIn-Unus%20Chinnappan-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:unuschinnappan@gmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail"/>
   </a>
@@ -18,158 +24,214 @@ Java Full Stack Developer | MERN Stack Developer | Open to Work
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Information Technology Graduate (2026)
+🎓 B.Tech Information Technology Graduate – 2026
 
-💻 Java Full Stack Developer
+💻 Interested in Software Development and Full Stack Development
 
-🌱 Currently learning Spring Boot and Data Structures & Algorithms
+☕ Strong foundation in Java, OOP concepts, and problem-solving
 
-🚀 Passionate about Full Stack Development and Software Engineering
+⚛️ Building web applications using React.js and JavaScript
 
-🔍 Looking for Software Developer / Java Developer opportunities
+🌱 Currently learning Spring Boot, REST API development, and Data Structures & Algorithms
 
-📍 Open to Work
-- Chennai
-- Bangalore
-- Coimbatore
+🚀 Experienced in frontend development through an internship and hands-on projects
+
+🔍 Actively seeking entry-level opportunities as:
+
+* Software Engineer
+* Associate Software Engineer
+* Full Stack Developer
+* Java Developer
+* Frontend Developer
+* Graduate Engineer Trainee
+
+📍 Open to opportunities in Chennai, Bengaluru, and Coimbatore
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Technical Skills
 
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,html,css"/>
 </p>
 
-### Frontend
+## Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 </p>
 
-### Backend
+## Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
 </p>
 
-### Database
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
-### Tools
+## Developer Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vite"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔐 Cyber Triage Tool
+## 🔐 Cyber Triage Tool for Digital Forensic Investigation
 
-Developed a Digital Forensics application that automates evidence collection, detects suspicious activities, analyzes system processes, and generates investigation reports.
+Developed a cyber triage application designed to automate the initial stages of digital forensic investigation.
 
-**Tech Used**
+### Key Features
 
-- Python
-- Flask
-- HTML
-- CSS
-- JavaScript
+* Scans running system processes
+* Analyzes files for suspicious characteristics
+* Uses a rule-based risk-scoring engine
+* Classifies findings as Low, Medium, or High risk
+* Provides scan control through a Flask-based interface
+* Generates forensic investigation reports in PDF format
 
----
+### Tech Stack
 
-## 🧠 Melanoma Prediction
-
-Built a Deep Learning model using YOLOv8 for melanoma (skin cancer) prediction and image detection.
-
-**Tech Used**
-
-- Python
-- YOLOv8
-- Deep Learning
+`Python` `Flask` `psutil` `HTML` `CSS`
 
 ---
 
-## 🔊 Text-to-Voice for Blind Persons
+## 📧 Bulk Mail Full Stack Application
 
-Developed an NLP-based application that converts text into natural speech to help visually impaired users.
+Developed a full-stack web application for managing and sending bulk emails.
 
-**Tech Used**
+### Key Features
 
-- Python
-- NLP
+* React-based user interface
+* REST API integration
+* Backend built with Node.js and Express.js
+* MongoDB database integration
+* Email delivery using Nodemailer
+* Input validation and error handling
+* Environment-based configuration
+
+### Tech Stack
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Nodemailer`
+
+---
+
+## 🔊 Text-to-Voice Application for Visually Impaired Users
+
+Developed a Python-based application that converts written text into speech to improve content accessibility for visually impaired users.
+
+### Tech Stack
+
+`Python` `Natural Language Processing` `Text-to-Speech`
+
+---
+
+## 🧠 Melanoma Detection Using YOLOv8
+
+Explored deep-learning-based melanoma detection and image analysis using the YOLOv8 model.
+
+### Tech Stack
+
+`Python` `YOLOv8` `Deep Learning` `Computer Vision`
+
+---
+
+# 💼 Experience
+
+## Front-End Developer Intern
+
+Worked on responsive and user-friendly web interfaces using modern frontend technologies.
+
+### Technologies Used
+
+`HTML` `CSS` `JavaScript` `React.js` `Bootstrap`
+
+During the internship, I gained practical experience in:
+
+* Responsive web design
+* Reusable frontend components
+* UI development
+* Debugging
+* Cross-device layouts
+
+---
+
+# 📚 Currently Learning
+
+☕ Spring Boot
+
+🧩 Data Structures & Algorithms using Java
+
+🔗 REST API Development
+
+🗄️ Backend Development and Database Integration
 
 ---
 
 # 📜 Certifications
 
-✔ MERN Stack Development
+✔ Full Stack Web Development Using MERN Stack
 
-✔ PHP & MySQL
+✔ Fundamentals of Deep Learning – NVIDIA
 
-✔ NVIDIA Fundamentals of Deep Learning
+✔ PHP & MySQL Training
 
 ✔ AI Prompt Engineering
 
-✔ Infosys Springboard HTML & CSS
+✔ HTML & CSS – Infosys Springboard
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Activities
 
 🏅 Smart India Hackathon (SIH) 2025 Participant
 
-🏅 SAP 2025 Participant
+🏅 Anna University Zonal-Level Handball Participant
 
-🏅 Anna University Handball Zonal Participant
-
-🏅 Front-End Developer Intern
+🏅 Participated in technical workshops and development activities
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=unusroshnn&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unusroshnn&show_icons=true&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=unusroshnn&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=unusroshnn&theme=tokyonight"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=unusroshnn&layout=compact&theme=tokyonight)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=unusroshnn&theme=algolia)
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=unusroshnn&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unusroshnn&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-📧 Email: **unuschinnappan@gmail.com**
+📧 Email: **[unuschinnappan@gmail.com](mailto:unuschinnappan@gmail.com)**
 
-💼 LinkedIn: **www.linkedin.com/in/unus-c-97571325a**
+💼 LinkedIn: **linkedin.com/in/unus-c-97571325a**
 
 🐙 GitHub: **github.com/unusroshnn**
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=unusroshnn&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=unusroshnn&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
+<p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
